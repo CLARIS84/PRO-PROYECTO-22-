@@ -1,2 +1,1 @@
-# PRO-PROYECTO-22-
-TIRO C ARCO
+# Plantilla-del-proyecto-C22
